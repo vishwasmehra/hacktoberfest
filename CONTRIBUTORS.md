@@ -16667,3 +16667,9 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Prateek Bajaj](https://github.com/prateek552)
+- Place: GMS Road,Dehradun,Utthrakhand
+- Bio: Student,Graphic era university
+- GitHub: [prateek552](https://github.com/prateek552)
+
